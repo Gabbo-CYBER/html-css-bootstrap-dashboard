@@ -1,0 +1,39 @@
+#navbarNav{
+    color: gray
+}
+
+
+.bg{
+   background-color: #1a222217; 
+    
+}
+
+
+.navbar-nav {
+    width: 90%;
+}
+
+
+li{
+    list-style: none;
+}
+
+.columns{
+    background-color:  #3a546d;
+    color: aliceblue;
+}
+
+
+.nav{
+    color: aliceblue;
+}
+
+
+
+.p-2{
+    color: aliceblue;
+    background-color: blue;
+}
+
+
+
