@@ -29,7 +29,6 @@ li {
 }
 
 
-
 .col-4 {
     color: aliceblue;
     background-color: #157fd5;
@@ -38,3 +37,10 @@ li {
 .avatar {
     width: 6%
 }
+
+
+.col-1{
+    width: 10rem;
+}
+
+
