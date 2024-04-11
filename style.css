@@ -1,11 +1,11 @@
-#navbarNav{
+#navbarNav {
     color: gray
 }
 
 
-.bg{
-   background-color: #1a222217; 
-    
+.bg {
+    background-color: #1a222217;
+
 }
 
 
@@ -14,26 +14,27 @@
 }
 
 
-li{
+li {
     list-style: none;
 }
 
-.columns{
-    background-color:  #3a546d;
+.columns {
+    background-color: #3a546d;
     color: aliceblue;
 }
 
 
-.nav{
+.nav {
     color: aliceblue;
 }
 
 
 
-.p-2{
+.col-4 {
     color: aliceblue;
-    background-color: blue;
+    background-color: #157fd5;
 }
 
-
-
+.avatar {
+    width: 6%
+}
